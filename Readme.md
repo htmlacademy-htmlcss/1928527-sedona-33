@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Ангелина Букина](https://up.htmlacademy.ru/htmlcss/33/user/1928527).
-* Наставник: `Неизвестно`.
+- Студент: [Ангелина Букина](https://up.htmlacademy.ru/htmlcss/33/user/1928527).
+- Наставник:[Максим Боровик](https://htmlacademy.ru/profile/mouxez).
 
 ---
 
